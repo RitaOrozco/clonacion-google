@@ -1,4 +1,4 @@
-# Clonación de la interfaz de Google con HTML5 y CSS3 ˚୨୧⋆｡˚ ⋆
+# ˗ˏˋClonación de la interfaz de Google con HTML5 y CSS3 ˚୨୧⋆｡˚ ⋆
 
 ## **ÍNDICE**
 :･ﾟ✧:･ﾟ
