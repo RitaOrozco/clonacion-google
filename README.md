@@ -9,11 +9,11 @@
 
 ****
 
-## 1. Intro
+## 1. Intro ₊˚ପ⊹
 
 HTML5 trabaja de la mano con css3 para crear paginas web que usamos todos los dias en el navegador. Incluso, este sitio web en donde estas viendo este contenido esta construido en HTML y CSS. EN este proyecto, con los conocimientos de HTML y CSS realicé la clonación de Google.
 
-## 2. Qué construí
+## ₊˚ପ⊹ 2. Qué construí
 
 En este proyecto me enfoqué en construir la clonación de la interfaz de Google. Contiene las siguientes secciones:
 
